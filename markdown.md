@@ -1,4 +1,4 @@
-﻿# <p style="text-align: center;">Fatema Al Batoul Fakhourji</p>
+# <p style="text-align: center;">Fatema Al Batoul Fakhourji</p>
 <p style="text-align: center;">Beirut, Lebanon | +961 79 119 624 | fatemaalbatoulfakhourji@gmail.com</p>
 
 <div>
@@ -18,7 +18,7 @@
 
 
 ## Education
- **American University of Beirut (AUB)** 08/2019 - 12/
+ **American University of Beirut (AUB)** 08/2019 - 12/2020
 
 - Master's in Science, Astrophysics
 
