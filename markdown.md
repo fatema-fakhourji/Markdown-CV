@@ -2,7 +2,7 @@
 <p style="text-align: center;">Beirut, Lebanon | +961 79 119 624 | fatemaalbatoulfakhourji@gmail.com</p>
 
 <div>
-  <img align ="right" alt="Fatema Fakhourji" src="https://contents.bebee.com/users/id/Oe0tz62babcff5983e/_avatar-QF1kP-400.png" width="250" height="250">
+  <img align ="right" alt="Fatema Fakhourji" src="[https://contents.bebee.com/users/id/Oe0tz62babcff5983e/_avatar-QF1kP-400.png](https://github.com/fatema-fakhourji/Markdown-CV/blob/master/fatema.png?raw=true)" width="250" height="250">
   <h2> Work Experience </h2>
  <strong>Physics and Mathematics Teacher</strong> 12/2021 - 06/2022
  <ul>
